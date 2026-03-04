@@ -1,0 +1,31 @@
+[33mtag v0.1[m
+Tagger: Sam Chiu <samuelchiu1214@gmail.com>
+Date:   Wed Mar 4 15:37:54 2026 +0800
+
+Initial tag try
+
+[33mcommit 8772c49816e5feda4075bd62aa03b01452436187[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;33mtag: [m[1;33mv0.1[m[33m)[m
+Author: Sam Chiu <samuelchiu1214@gmail.com>
+Date:   Wed Mar 4 15:13:25 2026 +0800
+
+    Initial commit
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fc9caaf[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m<title>Hello World!</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m<h1>Hello world!</h1>[m
+[32m+[m[32m<p>This is the first file in my new Git Repo.</p>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
